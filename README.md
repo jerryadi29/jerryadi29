@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: First i learn Python then i'm learning C++ 😄
 
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerryadi29&show_icons=true&theme=cobalt)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryadi29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
